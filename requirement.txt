@@ -1,0 +1,9 @@
+pynvim
+pandas
+numpy
+selenium
+notebook
+jupyter
+jupyter-console
+jupynium
+matplotlib
